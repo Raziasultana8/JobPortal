@@ -1,3 +1,3 @@
 
 
-### Live site Link: [Job Hunt](https://faisal-jobportal.netlify.app/)
+### Live site Link: [Job Hunt](https://job-listing-portal-gc3wk64vl-razia-sultanas-projects.vercel.app/)
